@@ -49,6 +49,7 @@ def run_identity_agent(address: str):
             "scores": stats.scores
         }
         
+        # 3. Save to DB using the Class
         db = Database()
         db.save_identity(final_data)
         return final_data
