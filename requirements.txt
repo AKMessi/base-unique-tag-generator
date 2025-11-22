@@ -1,12 +1,10 @@
 streamlit
+plotly
+web3
 langchain
 langchain-google-genai
 langgraph
 pydantic
 python-dotenv
-web3
 sqlalchemy
-plotly
 pandas
-qrcode
-pillow

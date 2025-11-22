@@ -1,3 +1,4 @@
 .env
 wallet_identities.db
 __pycache__
+identities.db
