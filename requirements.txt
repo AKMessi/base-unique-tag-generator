@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-google-genai
+langgraph
+pydantic
+python-dotenv
+web3
+sqlalchemy
+plotly
+pandas
+qrcode
+pillow
